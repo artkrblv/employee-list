@@ -1,0 +1,17 @@
+<!--<div class="col s15 m5 l5 py-2">-->
+<div class="card">
+    <div class="card-body">
+        <div class="card-content">
+            <span class="card-title"> {{ grid.fullName }} </span>
+            <p class="card-text" id="post">
+                {{ grid.post }}
+            </p>
+            <app-card *ngIf='isOpened' [card]="grid"></app-card>
+        </div>
+        <footer class="card-footer">
+            <div class="card-action">
+                <a href="#"  (click)="onClick()" id="openBttn">{{ openBttn }}</a>
+            </div>
+        </footer>
+    </div>
+</div>

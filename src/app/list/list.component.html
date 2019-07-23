@@ -1,0 +1,14 @@
+<li class="collection-item" >
+    <div class="text"> {{ list.fullName }}
+            <a 
+                (click)="onClick()"
+                href="#!" class="secondary-content" >
+                    <i class="material-icons"
+                        [ngClass]="{'rotate': isOpened}">chevron_right</i>
+                </a>
+       <div class="text" id="post"> {{ list.post }}</div>
+        <app-card *ngIf='isOpened'
+            [card]= "list"
+        ></app-card>
+    </div>
+</li>

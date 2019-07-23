@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+app-list {
+    &:nth-child(odd){
+        .collection-item {
+            background-color: gainsboro;
+        }
+    }
+}
+
+app-card {
+    padding-left: 40px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.card {
+    height: 100%;
+}
+
+
+

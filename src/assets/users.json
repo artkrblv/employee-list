@@ -1,0 +1,48 @@
+{"cms_users": 
+    [
+        {
+            "CMS_User": 
+            [
+                {"LastName":"Паньковский","Head":null,"Post":null,"Email":"pankovsky@ite-expo.ru","UserID":70,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Юрьевич","FullName":"Петр Паньковский","UserName":"ITEMSK-Pankovsky","FirstName":"Петр","Department":null}
+                ,{"LastName":"Клеопа","Head":null,"Post":null,"Email":"kleopa@ite-expo.ru","UserID":74,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Владимирович","FullName":"Никита Клеопа","UserName":"ITEMSK-Kleopa","FirstName":"Никита","Department":null}
+                ,{"LastName":"Глазкова","Head":null,"Post":null,"Email":"Glazkova@ite-expo.ru","UserID":77,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Ивановна","FullName":"Татьяна Глазкова","UserName":"ITEMSK-Glazkova","FirstName":"Татьяна","Department":null}
+                ,{"LastName":"Зубрилина","Head":null,"Post":null,"Email":"","UserID":79,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Владимировна","FullName":"Анастасия  Зубрилина","UserName":"ITEMSK-Zubrilina","FirstName":"Анастасия","Department":null}
+                ,{"LastName":"Максимова","Head":null,"Post":null,"Email":"maksimova@ite-expo.ru","UserID":81,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Юрьевна","FullName":"Марина Максимова ","UserName":"ITEMSK-Maksimova","FirstName":"Марина","Department":null}
+                ,{"LastName":"Смирнова","Head":86,"Post":"Менеджер по рекламе и маркетингу ","Email":"a.smirnova@ite-expo.ru","UserID":83,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Сергеевна","FullName":"Анна Смирнова","UserName":"ITEMSK-Smiryagina","FirstName":"Анна","Department":"Дирекция отраслевых выставок № 2"}
+                ,{"LastName":"Врещ","Head":182,"Post":"Руководитель проекта","Email":"Mikhail.Vresch@ite-russia.ru","UserID":85,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Николаевич","FullName":"Михаил Врещ","UserName":"ITEMSK-Vresch","FirstName":"Михаил","Department":"Дирекция отраслевых выставок № 2"}
+                ,{"LastName":"Еганова","Head":86,"Post":"Менеджер по продажам","Email":"Eganova@ite-expo.ru","UserID":91,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Михайловна","FullName":"Дарья Еганова","UserName":"ITEMSK-Eganova","FirstName":"Дарья","Department":"Дирекция отраслевых выставок № 2"}
+                ,{"LastName":"Носова","Head":86,"Post":"Руководитель проекта","Email":"nosova@ite-expo.ru","UserID":94,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Александровна","FullName":"Ольга Носова","UserName":"ITEMSK-nosova","FirstName":"Ольга","Department":"Дирекция отраслевых выставок № 2"}
+                ,{"LastName":"Крудо","Head":86,"Post":"Менеджер по продажам","Email":"krudo@ite-expo.ru","UserID":95,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Александровна","FullName":"Марина Крудо","UserName":"ITEMSK-Krudo","FirstName":"Марина","Department":"Дирекция отраслевых выставок № 2"}
+                ,{"LastName":"Маслова","Head":null,"Post":null,"Email":"maslova@ite-expo.ru","UserID":97,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Михайловна","FullName":"Татьяна Маслова","UserName":"ITEMSK-Maslova","FirstName":"Татьяна","Department":null}
+                ,{"LastName":"Соболева","Head":null,"Post":null,"Email":"soboleva@ite-expo.ru","UserID":98,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Викторовна","FullName":"Ирина Соболева","UserName":"ITEMSK-Soboleva","FirstName":"Ирина","Department":null}
+                ,{"LastName":"Иванова","Head":146,"Post":"Советник","Email":"e.ivanova@ite-expo.ru","UserID":100,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"","FullName":"Елена Иванова","UserName":"ITEMSK-e.ivanova","FirstName":"Елена","Department":"Группа протокола"}
+                ,{"LastName":"Елисеева","Head":null,"Post":null,"Email":"eliseeva@ite-expo.ru","UserID":103,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Александровна","FullName":"Марина Елисеева","UserName":"ITEMSK-eliseeva","FirstName":"Марина","Department":null}
+                ,{"LastName":"Ковалева","Head":null,"Post":null,"Email":"Kovaleva@ite-expo.ru","UserID":107,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Николаевна","FullName":"Ольга Ковалева","UserName":"ITEMSK-Kovaleva","FirstName":"Ольга","Department":null}
+                ,{"LastName":"Гаврилова","Head":null,"Post":null,"Email":"E.Gavrilova@ite-expo.ru","UserID":111,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Евгеньевна","FullName":"Екатерина Гаврилова","UserName":"ITEMSK-E.Gavrilova","FirstName":"Екатерина","Department":null}
+                ,{"LastName":"Мальдонадо","Head":null,"Post":null,"Email":"maldonado@ite-expo.ru","UserID":112,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Мануэлевич","FullName":"Александр Мальдонадо","UserName":"ITEMSK-Maldonado","FirstName":"Александр","Department":null}
+                ,{"LastName":"Романников","Head":null,"Post":null,"Email":"","UserID":114,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Сергеевич","FullName":"Дмитрий Романников","UserName":"ITEMSK-Romannikov","FirstName":"Дмитрий","Department":null}
+                ,{"LastName":"Синявская","Head":null,"Post":null,"Email":"sinyavskaya@ite-expo.ru","UserID":119,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Сергеевна","FullName":"Ольга Синявская","UserName":"ITEMSK-sinyavskaya","FirstName":"Ольга","Department":null}
+                ,{"LastName":"Алешина","Head":null,"Post":null,"Email":"aleshina@ite-expo.ru","UserID":120,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Андреевна","FullName":"Наталия Алешина","UserName":"ITEMSK-Aleshina","FirstName":"Наталия","Department":null}
+                ,{"LastName":"Сучинова","Head":null,"Post":null,"Email":"suchinova@ite-expo.ru","UserID":121,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"","FullName":"Екатерина Сучинова","UserName":"ITEMSK-Suchinova","FirstName":"Екатерина","Department":null}
+                ,{"LastName":"Волкова","Head":71,"Post":"Системный аналитик","Email":"volkova@ite-expo.ru","UserID":123,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Юрьевна","FullName":"Марина Волкова","UserName":"ITEMSK-volkova","FirstName":"Марина","Department":"Департамент информационных технологий"}
+                ,{"LastName":"Андреева","Head":null,"Post":null,"Email":"n.andreeva@ite-expo.ru","UserID":124,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Евгеньевна","FullName":"Наталья Андреева","UserName":"ITEMSK-n.andreeva","FirstName":"Наталья","Department":null}
+                ,{"LastName":"Федотова","Head":null,"Post":null,"Email":"fedotova@ite-expo.ru","UserID":125,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Дмитриевна","FullName":"Анна Федотова","UserName":"ITEMSK-Fedotova","FirstName":"Анна","Department":null}
+                ,{"LastName":"Чепурная","Head":454,"Post":"Менеджер по продажам","Email":"Chepurnaya@ite-expo.ru","UserID":127,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Станиславовна","FullName":"Юлия Чепурная","UserName":"ITEMSK-Dolmatova","FirstName":"Юлия","Department":"Дирекция отраслевых выставок № 1"}
+                ,{"LastName":"Сарнов","Head":null,"Post":null,"Email":"","UserID":128,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Дмитриевич","FullName":"Александр Сарнов","UserName":"ITEMSK-Sarnov","FirstName":"Александр","Department":null}
+                ,{"LastName":"Горелова","Head":null,"Post":null,"Email":"gorelova@ite-expo.ru","UserID":129,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Борисовна","FullName":"Виктория Горелова","UserName":"ITEMSK-Gorelova","FirstName":"Виктория","Department":null}
+                ,{"LastName":"Морозова","Head":86,"Post":"Менеджер по продажам","Email":"i.morozova@ite-expo.ru","UserID":131,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Владимировна","FullName":"Инна Морозова","UserName":"ITEMSK-I.Morozova","FirstName":"Инна","Department":"Дирекция отраслевых выставок № 5"}
+                ,{"LastName":"Голынская","Head":198,"Post":"Бизнес-аналитик","Email":"golynskaya@ite-expo.ru","UserID":133,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Вячеславовна","FullName":"Мария Голынская","UserName":"ITEMSK-Golynskaya","FirstName":"Мария","Department":"Департамент корпоративного маркетинга"}
+                ,{"LastName":"Родионова","Head":230,"Post":"Ведущий финансовый аналитик","Email":"M.rodionova@ite-expo.ru","UserID":134,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Сергеевна","FullName":"Мария Родионова ","UserName":"ITEMSK-M.Rodionova","FirstName":"Мария","Department":"Администрация"}
+                ,{"LastName":"Кирнос","Head":null,"Post":null,"Email":"kirnos@ite-expo.ru","UserID":137,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Александровна","FullName":"Ольга Кирнос","UserName":"ITEMSK-Kondrakhina","FirstName":"Ольга","Department":null}
+                ,{"LastName":"Барышникова","Head":308,"Post":"Руководитель направления новых проектов","Email":"baryshnikova@ite-expo.ru","UserID":151,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Игоревна","FullName":"Дарья Барышникова","UserName":"ITEMSK-Baryshnikova","FirstName":"Дарья","Department":"Дирекция отраслевых выставок № 5"}
+                ,{"LastName":"Хупения","Head":null,"Post":null,"Email":"","UserID":152,"Company":"ООО \"АйТиИ Экспо\"","MiddleName":"Теймуразовна","FullName":"Мариам Хупения","UserName":"ITEMSK-Khupeniya","FirstName":"Мариам","Department":null}
+            ]
+        },
+        
+        {"TotalRecords": 
+            [
+                {"TotalRecords":"33"}
+            ]
+        }
+    ]
+}
