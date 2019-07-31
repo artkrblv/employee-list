@@ -1,11 +1,11 @@
-import { Injectable } from '@angular/core';
+import { Injectable, Inject } from '@angular/core';
 import { Http } from '@angular/http';
 import { map } from 'rxjs/operators';
 
 @Injectable()
 export class UsersService {
 
-    constructor(private http: Http) {}
+    constructor(@Inject(Http) private http: Http) {}
 
     getUsers() {
         return this.http.get('assets/users.json')
